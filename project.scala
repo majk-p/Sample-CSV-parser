@@ -1,0 +1,6 @@
+//> using scala "3.2.2"
+//> using lib "org.typelevel::cats-effect:3.4.8"
+//> using lib "org.typelevel::cats-core:2.9.0"
+//> using lib "com.softwaremill.magnolia1_3::magnolia:1.3.0"
+//> using dep "org.scalameta::munit::0.7.29"
+//> using options "-source:future"
